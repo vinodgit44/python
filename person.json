@@ -1,0 +1,1 @@
+"{\n    \"name\": \"adam\",\n    \"age\": 24,\n    \"city\": \"london\",\n    \"married\": true,\n    \"skills\": [\n        \"java\",\n        \"python\",\n        \"databases\"\n    ]\n}"
