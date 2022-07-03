@@ -1,0 +1,11 @@
+{
+    "age": 24,
+    "city": "london",
+    "married": true,
+    "name": "adam",
+    "skills": [
+        "java",
+        "python",
+        "databases"
+    ]
+}
